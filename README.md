@@ -1,0 +1,2 @@
+# -Explorando-a-Agilidade-Desvendando-os-Pilares-e-Valores-Eventos-e-Artefatos-do-Scrum-
+Explore o fascinante mundo do Scrum através de três infográficos informativos. Descubra os fundamentos dos pilares e valores, desvende a dinâmica dos eventos e artefatos, e obtenha insights valiosos sobre a aplicação prática do framework. Uma jornada visual e esclarecedora para aprimorar suas habilidades em gestão ágil de projetos.
